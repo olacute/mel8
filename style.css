@@ -1,0 +1,23 @@
+body {
+    background: url(https://i.pinimg.com/originals/b7/2d/9b/b72d9b14b652d6290e313f60b3146649.jpg);
+}
+
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: rgb(252, 179, 212);
+    border-width: 10px;
+    width: 1000%;
+}
+
+h2 {
+    color: rgba(249, 208, 255, 0.992);
+}
+
+h3 {
+    color: rgb(248, 212, 172);
+}
+
+h4 {
+    color: rgb(137, 116, 255);
+}
